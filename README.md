@@ -1,6 +1,6 @@
-# Machine Learning And Deep Learning - Theoritical Learning and Practical Learning Practice.
-******
-### Structure
+<h2>Machine Learning And Deep Learning - Theoritical Learning and Practical Learning Practice.</h2>
+<hr>
+<h3>Structure of the Repository</h3>
 <ul>
 	<li>Basic<p>It includes basic theory understanding and python code of basic algorithms and how to implement it</p></li>
 	<li>Intermediate<p>It includes mathematical approach and Algorithmic Implementation of ML coding with Real life applications.</p></li>
