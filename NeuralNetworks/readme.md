@@ -1,1 +1,1 @@
-<h1>Neural Netwoek and DeepLearning: Theory + Implementation</h1>
+<h1>Neural Network and DeepLearning: Theory + Implementation</h1>
