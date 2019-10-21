@@ -1,3 +1,9 @@
+# Machine Learning Practices & Guide
+
+![Learn](https://img.shields.io/badge/MachineLearning-Implementations-blueviolet?style=for-the-badge)
+
+********************
+
 <h2>Machine Learning And Deep Learning - Theoritical Learning and Practical Learning Practice.</h2>
 <hr>
 <h3>Structure of the Repository</h3>
